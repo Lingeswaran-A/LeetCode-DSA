@@ -43,9 +43,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Depth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
