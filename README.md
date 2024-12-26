@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
