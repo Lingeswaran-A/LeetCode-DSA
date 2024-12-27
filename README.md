@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |
 | ------- |
