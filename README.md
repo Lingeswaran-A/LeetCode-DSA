@@ -91,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2173-number-of-valid-words-in-a-sentence) |
 <!---LeetCode Topics End-->
