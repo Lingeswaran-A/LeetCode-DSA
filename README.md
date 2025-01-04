@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0001-two-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,12 +98,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
