@@ -16,16 +16,16 @@ class Solution {
                 }
             }
         }
-        StringBuilder res=new StringBuilder(s);
-        int num_of_shift=0;
-        for(int i=0;i<n;i++){
-            num_of_shift=(num_of_shift+diff[i])%26;
-            if(num_of_shift<0){
-                num_of_shift+=26;
-            }
-            char shift_ch=(char)('a'+((s.charAt(i)-'a'+num_of_shift)%26));
-            res.setCharAt(i,shift_ch);
+        for (int i = 1; i < n; ++i) {
+            diff[i] += diff[i - 1];
         }
-        return res.toString();
+        char[] chars=s.toCharArray();
+        for(int i=0;i<n;i++){
+            int shift = (diff[i] % 26 + 26) % 26; 
+            int ch=chars[i]-'a';
+            ch=(ch+shift)%26;
+            chars[i]=(char) ('a'+ch);
+        }
+        return new String(chars);
     }
 }
