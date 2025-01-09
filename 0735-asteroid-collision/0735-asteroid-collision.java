@@ -3,7 +3,7 @@ class Solution {
         int n=asteroids.length;
         Stack<Integer> stk=new Stack<>();
         for(int i=0;i<=n-1;i++){
-            boolean esc=true;
+            boolean flag=true;
             while(!stk.isEmpty() && asteroids[i]<0 && stk.peek()>0){
                 if(stk.peek() < -asteroids[i]){
                     stk.pop();
@@ -12,10 +12,10 @@ class Solution {
                 else if(stk.peek()==-asteroids[i]){
                     stk.pop();
                 }
-                esc=false;
+                flag=false;
                 break;
             }
-            if(esc){
+            if(flag){
                 stk.push(asteroids[i]);
             }
         }
