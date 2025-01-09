@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [1025-minimum-cost-for-tickets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [2155-find-missing-observations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2155-find-missing-observations) |
 ## Linked List
 |  |
