@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0952-word-subsets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0952-word-subsets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
