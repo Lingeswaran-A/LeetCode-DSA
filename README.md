@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2155-find-missing-observations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2358-number-of-ways-to-split-array) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2465-shifting-letters-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
