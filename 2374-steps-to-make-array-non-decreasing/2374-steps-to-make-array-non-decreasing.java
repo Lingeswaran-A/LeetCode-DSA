@@ -1,6 +1,6 @@
 class Solution {
     public int totalSteps(int[] nums) {
-        Deque<Integer> stk=new ArrayDeque<>();
+        Stack<Integer> stk=new Stack<>();
         int[] steps=new int[nums.length];
         int max=0;
         for(int i=nums.length-1;i>=0;i--){
