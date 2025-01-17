@@ -1,12 +1,11 @@
 class Solution {
     public boolean doesValidArrayExist(int[] derived) {
-        int a=0,b=0;
+        int res=0;
         for(int n:derived){
-            if(n==1) b=~b;
-            else continue;
+            res=res^n;
         }
         boolean flag=false;
-        if(a==b) flag=true;
+        if(res==0) flag=true;
         return flag;
     }
 }
