@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
