@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
+| [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Two Pointers
