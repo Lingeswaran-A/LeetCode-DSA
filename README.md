@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
+| [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -218,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
