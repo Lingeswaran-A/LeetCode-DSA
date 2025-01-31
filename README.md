@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0472-concatenated-words) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String Matching
 |  |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -314,4 +319,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
