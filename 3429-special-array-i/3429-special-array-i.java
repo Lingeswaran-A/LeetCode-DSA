@@ -9,8 +9,7 @@ class Solution {
         return true;
     }
     public boolean isParity(int a,int b){
-        if(a%2!=0 && b%2==0) return true;
-        else if(a%2==0 && b%2!=0) return true;
+        if((a%2!=0 && b%2==0) || (a%2==0 && b%2!=0)) return true;
         else return false;
     }
 }
