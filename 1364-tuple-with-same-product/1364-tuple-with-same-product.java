@@ -1,19 +1,18 @@
 class Solution {
     public int tupleSameProduct(int[] nums) {
-        int n = nums.length;
-        Map<Integer, Integer> freq = new HashMap<>();
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int product = nums[i] * nums[j];
-                freq.put(product, freq.getOrDefault(product, 0) + 1);
+        int numsLength = nums.length;
+        Map<Integer, Integer> hmap = new HashMap<>();
+        int res = 0;
+        for (int ind = 0; ind < numsLength; ind++){
+            for (int s_ind = ind + 1;s_ind < numsLength;s_ind++){
+                hmap.put(nums[ind] * nums[s_ind],hmap.getOrDefault(nums[ind] * nums[s_ind],0)+1);
             }
         }
-        int sum = 0;
-        for (int count : freq.values()) {
-            if (count > 1) {
-                sum += (count * (count - 1)) / 2;
-            }
+        for (int value : hmap.keySet()) {
+            int count = hmap.get(value);
+            int pair =((count-1)*count)/2;
+            res+=8*pair;
         }
-        return sum * 8;
+        return res;
     }
 }
