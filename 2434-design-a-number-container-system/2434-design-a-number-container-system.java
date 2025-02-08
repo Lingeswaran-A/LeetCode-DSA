@@ -5,7 +5,6 @@ class NumberContainers {
         mp = new HashMap<>();
         mpp = new HashMap<>();
     }
-    
     public void change(int index, int number) {
         if (mp.containsKey(index) && mp.get(index) != number) {
             mpp.get(mp.get(index)).remove(index);
