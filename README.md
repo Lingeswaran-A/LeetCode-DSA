@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
@@ -378,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
