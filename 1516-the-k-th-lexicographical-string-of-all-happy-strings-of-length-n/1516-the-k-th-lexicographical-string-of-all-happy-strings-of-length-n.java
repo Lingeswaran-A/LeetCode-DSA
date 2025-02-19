@@ -1,22 +1,24 @@
 class Solution {
     public String getHappyString(int n, int k) {
-        Queue<String> q = new LinkedList<>();
-        q.offer("a");
-        q.offer("b");
-        q.offer("c");
-        List<String> happyStrings = new ArrayList<>();
-        while (!q.isEmpty()) {
-            String s = q.poll();
-            if (s.length() == n) {
-                happyStrings.add(s);
-                continue;
+        ans = "";
+        solve(0, new int[]{k}, n, new char[]{'a', 'b', 'c'}, new StringBuilder());
+        return ans;
+    }
+    private String ans = "";
+    private void solve(int len, int[] cnt, int n, char[] chars, StringBuilder s) {
+        if (len == n) {
+            if (--cnt[0] == 0) {
+                ans = s.toString();
             }
-            for (char ch : new char[]{'a', 'b', 'c'}) {
-                if (s.charAt(s.length() - 1) != ch) {
-                    q.offer(s + ch);
-                }
+            return;
+        }
+        for (char c : chars) {
+            if (len == 0 || s.charAt(len - 1) != c) {
+                s.append(c);
+                solve(len + 1, cnt, n, chars, s);
+                s.deleteCharAt(s.length() - 1);
+                if (cnt[0] == 0) return;
             }
         }
-        return k > happyStrings.size() ? "" : happyStrings.get(k - 1);
     }
 }
