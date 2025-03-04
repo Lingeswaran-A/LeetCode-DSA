@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
