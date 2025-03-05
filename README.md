@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
