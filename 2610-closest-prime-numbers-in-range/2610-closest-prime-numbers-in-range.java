@@ -1,34 +1,34 @@
 class Solution {
-    private static final int N=1000002;
-    private boolean[] prime=new boolean[N];
-    public Solution(){
-        seive();
-    }
-    private void seive(){
-        for(int i=0;i<N;i++) prime[i]=true;
-        prime[0]=prime[1]=false;
-        for(int i=2;i*i<N;i++){
-            if(prime[i]){
-                for(int j=i*i;j<N;j+=i){
-                    prime[j]=false;
-                }
-            }
-        }
-    }
     public int[] closestPrimes(int left, int right) {
-        int prev=-1;
-        int diff=Integer.MAX_VALUE;
-        int[] ans={-1,-1};
-        for(int i=left;i<=right;i++){
-            if(prime[i]){
-                if(prev!=-1 && i-prev<diff){
-                    ans[0]=prev;
-                    ans[1]=i;
-                    diff=i-prev;
-                }
-                prev=i;
+        int res[]=new int[2];
+        int nums1=-1;
+        int nums2=-1;
+        boolean arr[]=new boolean[right+1];
+        for(int i=2;i*i<=right;i++){
+            if(arr[i]==false){
+                for(int j=i*i;j<=right;j+=i)
+                arr[j]=true;
             }
         }
-        return ans;
+        arr[1]=true;
+        int minDist=Integer.MAX_VALUE;
+        int prev=-1;
+        boolean check=false;
+        for(int i=left;i<=right;i++){
+            if(!arr[i]){
+            if(prev!=-1&&i-prev<minDist){
+                minDist=i-prev;
+                nums1=prev;
+                nums2=i;
+            }
+            prev=i;
+            }
+        }
+        if(nums1!=-1&&nums2!=-1){
+            res[0]=nums1;
+            res[1]=nums2;
+            return res;
+        }
+        return new int[]{-1,-1};
     }
 }
