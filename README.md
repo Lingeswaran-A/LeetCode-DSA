@@ -465,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
