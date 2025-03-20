@@ -10,9 +10,7 @@ class Solution {
             int source = edge[0], target = edge[1], weight = edge[2];
             int sourceRoot = findRoot(parent, source);
             int targetRoot = findRoot(parent, target);
-
             minPathCost[targetRoot] &= weight;
-
             if (sourceRoot != targetRoot) {
                 minPathCost[targetRoot] &= minPathCost[sourceRoot];
                 parent[sourceRoot] = targetRoot;
