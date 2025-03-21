@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2155-find-missing-observations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Dynamic Programming
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
