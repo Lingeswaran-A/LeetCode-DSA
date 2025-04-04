@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
