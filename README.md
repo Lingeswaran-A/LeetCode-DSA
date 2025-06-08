@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0050-powx-n) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
