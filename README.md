@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
+| [0605-can-place-flowers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0854-making-a-large-island) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2456-construct-smallest-number-from-di-string) |
