@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 ## Queue
 |  |
 | ------- |
