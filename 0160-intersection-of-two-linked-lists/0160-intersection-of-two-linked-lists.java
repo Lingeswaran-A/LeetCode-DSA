@@ -24,6 +24,6 @@ public class Solution {
             }
             else list2=list2.next;
         }
-        return list1;
+        return list2;
     }
 }
