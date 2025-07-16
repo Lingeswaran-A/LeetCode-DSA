@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
