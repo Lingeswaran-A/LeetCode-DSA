@@ -6,15 +6,7 @@ class Solution {
             if(pq.size()>k) pq.poll();
         }
         int[][] topk=pq.toArray(new int[0][0]);
-        for(int i=0;i<topk.length-1;i++){
-            for(int j=i+1;j<topk.length;j++){
-                if(topk[i][1] > topk[j][1]){
-                    int[] temp=topk[i];
-                    topk[i] = topk[j];
-                    topk[j] = temp;
-                }
-            }
-        }
+        Arrays.sort(topk,Comparator.comparingInt(a -> a[1]));
         int[] res=new int[k];
         for(int i=0;i<k;i++){
             res[i]=topk[i][0];
