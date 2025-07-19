@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0472-concatenated-words) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0952-word-subsets) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
