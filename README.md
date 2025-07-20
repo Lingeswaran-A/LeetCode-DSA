@@ -108,6 +108,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2107-find-unique-binary-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
