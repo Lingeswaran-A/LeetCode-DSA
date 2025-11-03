@@ -21,6 +21,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0310-minimum-height-trees](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0310-minimum-height-trees) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0854-making-a-large-island) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | ------- |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
