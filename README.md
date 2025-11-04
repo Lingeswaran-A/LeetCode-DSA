@@ -33,6 +33,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [1025-minimum-cost-for-tickets](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0820-find-eventual-safe-states](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
