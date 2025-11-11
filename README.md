@@ -15,6 +15,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2478-longest-nice-subarray) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0151-reverse-words-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
