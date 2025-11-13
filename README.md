@@ -11,6 +11,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
