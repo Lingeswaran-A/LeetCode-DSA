@@ -12,6 +12,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0031-next-permutation](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0056-merge-intervals) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
@@ -295,6 +298,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0015-3sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
