@@ -14,6 +14,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0041-first-missing-positive](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0283-move-zeroes) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | ------- |
 | [0015-3sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
