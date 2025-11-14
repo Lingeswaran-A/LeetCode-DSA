@@ -9,6 +9,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0001-two-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0046-permutations) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | ------- |
 | [0015-3sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
