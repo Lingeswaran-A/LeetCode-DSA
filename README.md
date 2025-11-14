@@ -185,6 +185,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
