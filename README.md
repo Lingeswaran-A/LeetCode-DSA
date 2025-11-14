@@ -24,6 +24,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | ------- |
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0056-merge-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
