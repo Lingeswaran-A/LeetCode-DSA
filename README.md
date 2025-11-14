@@ -15,6 +15,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0046-permutations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0283-move-zeroes) |
