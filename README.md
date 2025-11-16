@@ -323,6 +323,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1160-letter-tile-possibilities) |
