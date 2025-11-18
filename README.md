@@ -32,6 +32,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0542-01-matrix](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0854-making-a-large-island) |
