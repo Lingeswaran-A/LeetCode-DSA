@@ -144,6 +144,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions that I have solved to ace the coding intervie
 | [0007-reverse-integer](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Lingeswaran-A/LeetCode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
